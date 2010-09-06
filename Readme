@@ -1,2 +1,5 @@
-Test Git 
-How can I upload file to Git Hub...?
+I was having the same issue and then smacked myself in the head because I hadn't actually added my project files.
+
+git add .
+git commit -m "message"
+git push origin master
